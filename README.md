@@ -2,4 +2,4 @@
 -use testingNewFeatures.py to test the model. Add models path in this file.
 -keras_model is trained using Google teachable Machines.
 -dataset not uploaded.
-
+-stacktest is new file, it include the forming of words by putting it to an array and printing when 's' is pressed.
