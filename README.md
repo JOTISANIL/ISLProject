@@ -3,3 +3,4 @@
 -keras_model is trained using Google teachable Machines.
 -dataset not uploaded.
 -stacktest is new file, it include the forming of words by putting it to an array and printing when 's' is pressed.
+-testingAkey.py is for adding elements to array only if 'a' key is pressed. (Avoids automatic insertion which might be wrong, like in stacktest.py)
